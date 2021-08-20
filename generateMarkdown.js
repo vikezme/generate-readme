@@ -27,4 +27,4 @@ The following is needed to run the test: ${data.Tests}
 If you have any questions about the repo, open an issue or contact ${data.username}
 `
 }
-module.exports = generateMarkdown(data);
+module.exports = generateMarkdown;

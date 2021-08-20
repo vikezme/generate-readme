@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vikezme/generate-readme/issues"
   },
-  "homepage": "https://github.com/vikezme/generate-readme#readme"
+  "homepage": "https://github.com/vikezme/generate-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
 }
