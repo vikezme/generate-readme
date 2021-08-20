@@ -1,8 +1,8 @@
 
-# generat-readme
-http:/github.com/vikezme/generat-readme
+# generate-readme
+http:/github.com/vikezme/generate-readme
 # Description
-This app allows developer to create a professional README.md file more efficient and easy to use.
+This app allows a developer to create a professional README.md file in more efficient and easy way.
 # Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
